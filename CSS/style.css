@@ -1,0 +1,5 @@
+@import 'fonts.css';
+p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 25px;
+}
